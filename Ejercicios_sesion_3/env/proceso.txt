@@ -1,0 +1,18 @@
+    para poder realizar el trabajo tuve que hacer cosas ligeramente diferentes, en terminal coloque lo siguiente:
+$ cd C:\Users\xian1\Dropbox\Innovaccion\Ejercicios_sesion_3.
+    esto lo hice para cambiar de directorio a dicho lugar, posteriormente utilice el siguiente comando:
+$ py -m venv env.
+    a diferencia de lo que se nos habia dicho donde utilizaban "python3", esto creo la carpeta de mi environmet, lo siguiente fue moverme a la siguiente carpeta que se creo:
+$ cd C:\Users\xian1\Dropbox\Innovaccion\Ejercicios_sesion_3\env\Scripts:
+    la cual es diferente a lo que se nos dijo, ya que ellos se iban a una carpeta llamada 'bin' y no 'Scripts', dentro de esta carpeta utilice el siguiente comando:
+$ start activate
+    tras esto se abrio una nueva terminal en la que se colocaba el prefijo 'env' que indicaba que estaba en un nuevo environmet separado al de mi computadora.
+    lo siguiente fue usar el comando:
+$ pip freeze
+    el cual no provoco ningun cambio puesto que no habia ninguna libreria instalada, despues utilice el comando:
+$ pip install python-dateutil
+    comando que instalo dicho libreria, asi que utilice el de nuevo el comando:
+$ pip freeze
+    dicho comando ahora si desplegaba informacion ya que en mi environmet se habia instalado dichas librerias, el siguiente comando se utiliza para cerrar la terminarl de environmet
+$ deactivate
+    fin.
