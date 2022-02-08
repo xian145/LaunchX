@@ -2,4 +2,4 @@
  Ejercicios del curso
 
 Autor: Abraham Ariel Arizmendi Grijalva
-fecha: 06/02/22 (dd/mm/yy)
+fecha: 30/11/92 (dd/mm/yy)
