@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\xian1\Dropbox\Innovaccion\Ejercicios_sesion_3\env
+set VIRTUAL_ENV=C:\Users\xian1\Dropbox\LaunchX\Ejercicios_modulo_2\env
 
 if not defined PROMPT set PROMPT=$P$G
 

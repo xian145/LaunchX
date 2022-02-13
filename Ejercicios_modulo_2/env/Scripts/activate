@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\xian1\Dropbox\Innovaccion\Ejercicios_sesion_3\env"
+VIRTUAL_ENV="C:\Users\xian1\Dropbox\LaunchX\Ejercicios_modulo_2\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
